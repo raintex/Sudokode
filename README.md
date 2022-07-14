@@ -11,5 +11,4 @@
 2. Function to determine 'easiest' place to start adding number, i.e. the row, column or block with highest number of entries.
 3. Function to check if there are any repeated numbers in row, column or block.
 4. Function to add numbers to grid after confirming it is not repeated.
-5. Backtrack any number of times in case a fit is not obtained
-6. 
+5. Backtrack any number of times in case a fit is not obtained 
