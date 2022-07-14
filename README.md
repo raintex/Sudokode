@@ -1,7 +1,7 @@
 # SUDOKODE
 #
 * Trying to write a basic and bruteforce style code to solve sudoku puzzles
-* Sudoku puzzles contain a 9x9 grid of numbers such that no number is repeated in any of the row, column or the adjacent 2x3 blocks
+* Sudoku puzzles contain a 9x9 grid of numbers such that no number is repeated in any of the row, column or the adjacent 3x3 blocks
 * Objective is to create a code that can take in input through a gui grid that resembles a sudoku and give output in the same grid
 #
 #
